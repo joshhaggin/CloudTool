@@ -1,0 +1,551 @@
+﻿<File version="2.1">
+  <FileID>136eb657-b806-4b95-ab73-198f53aa86d4</FileID>
+  <Preview>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</Preview>
+  <Object type="System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="Exch_Delegation" children="Controls">
+    <Property name="AutoScaleDimensions">6, 13</Property>
+    <Property name="AutoScaleMode">Font</Property>
+    <Property name="ClientSize">384, 411</Property>
+    <Property name="MaximumSize">400, 870</Property>
+    <Property name="MinimumSize">400, 450</Property>
+    <Property name="Name">Exch_Delegation</Property>
+    <Property name="Text">$param - Delegation</Property>
+    <Event name="Load">Exch_Delegation_Load</Event>
+    <Object type="System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="panel1" children="Controls">
+      <Property name="AutoScroll">True</Property>
+      <Property name="Dock">Fill</Property>
+      <Property name="Location">0, 0</Property>
+      <Property name="Name">panel1</Property>
+      <Property name="Size">384, 411</Property>
+      <Property name="TabIndex">23</Property>
+      <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="button_Exch_DelegateSave" children="Controls">
+        <Property name="Location">199, 792</Property>
+        <Property name="Name">button_Exch_DelegateSave</Property>
+        <Property name="Size">75, 23</Property>
+        <Property name="TabIndex">24</Property>
+        <Property name="Text">Save</Property>
+        <Property name="UseCompatibleTextRendering">True</Property>
+        <Property name="UseVisualStyleBackColor">True</Property>
+      </Object>
+      <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="button_Exch_DelegateCancel" children="Controls">
+        <Property name="Location">280, 792</Property>
+        <Property name="Name">button_Exch_DelegateCancel</Property>
+        <Property name="Size">75, 23</Property>
+        <Property name="TabIndex">23</Property>
+        <Property name="Text">Cancel</Property>
+        <Property name="UseCompatibleTextRendering">True</Property>
+        <Property name="UseVisualStyleBackColor">True</Property>
+      </Object>
+      <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="button_Exch_Delegate_FullAccessMinus" children="Controls">
+        <Property name="Enabled">False</Property>
+        <Property name="Font">Microsoft Sans Serif, 30pt</Property>
+        <Property name="Location">60, 557</Property>
+        <Property name="Name">button_Exch_Delegate_FullAccessMinus</Property>
+        <Property name="Size">39, 23</Property>
+        <Property name="TabIndex">22</Property>
+        <Property name="Text">-</Property>
+        <Property name="UseCompatibleTextRendering">True</Property>
+        <Property name="UseVisualStyleBackColor">True</Property>
+        <Property name="Visible">False</Property>
+      </Object>
+      <Object type="System.Windows.Forms.RichTextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="richtextbox_Exch_Delegate_SendAs" children="Controls">
+        <Property name="BackColor">White</Property>
+        <Property name="BorderStyle">None</Property>
+        <Property name="Location">10, 41</Property>
+        <Property name="Name">richtextbox_Exch_Delegate_SendAs</Property>
+        <Property name="ReadOnly">True</Property>
+        <Property name="Size">334, 44</Property>
+        <Property name="TabIndex">12</Property>
+        <Property name="Text">The Send As permission allows a delegate to send email from this mailbox. The message will appear to have been sent by the mailbox owner.</Property>
+      </Object>
+      <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="button_Exch_Delegate_SendAsMinus" children="Controls">
+        <Property name="Enabled">False</Property>
+        <Property name="Font">Microsoft Sans Serif, 30pt</Property>
+        <Property name="Location">60, 272</Property>
+        <Property name="Name">button_Exch_Delegate_SendAsMinus</Property>
+        <Property name="Size">39, 23</Property>
+        <Property name="TabIndex">20</Property>
+        <Property name="Text">-</Property>
+        <Property name="UseCompatibleTextRendering">True</Property>
+        <Property name="UseVisualStyleBackColor">True</Property>
+        <Property name="Visible">False</Property>
+      </Object>
+      <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="button_Exch_Delegate_SendOnBehalfMinus" children="Controls">
+        <Property name="Enabled">False</Property>
+        <Property name="Font">Microsoft Sans Serif, 30pt</Property>
+        <Property name="Location">60, 12</Property>
+        <Property name="Name">button_Exch_Delegate_SendOnBehalfMinus</Property>
+        <Property name="Size">39, 23</Property>
+        <Property name="TabIndex">18</Property>
+        <Property name="Text">-</Property>
+        <Property name="UseCompatibleTextRendering">True</Property>
+        <Property name="UseVisualStyleBackColor">True</Property>
+        <Property name="Visible">False</Property>
+      </Object>
+      <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="button_Exch_Delegate_SendOnBehalfAdd" children="Controls">
+        <Property name="Enabled">False</Property>
+        <Property name="Font">Microsoft Sans Serif, 25pt</Property>
+        <Property name="Location">15, 12</Property>
+        <Property name="Name">button_Exch_Delegate_SendOnBehalfAdd</Property>
+        <Property name="Size">39, 23</Property>
+        <Property name="TabIndex">17</Property>
+        <Property name="Text">+</Property>
+        <Property name="UseCompatibleTextRendering">True</Property>
+        <Property name="UseVisualStyleBackColor">True</Property>
+        <Property name="Visible">False</Property>
+      </Object>
+      <Object type="System.Windows.Forms.RichTextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="richtextbox15" children="Controls">
+        <Property name="BackColor">White</Property>
+        <Property name="BorderStyle">None</Property>
+        <Property name="Location">10, 586</Property>
+        <Property name="Name">richtextbox15</Property>
+        <Property name="ReadOnly">True</Property>
+        <Property name="Size">334, 32</Property>
+        <Property name="TabIndex">11</Property>
+        <Property name="Text">The Full Access permission allows a delegate to open this mailbox and behave as the mailbox owner.</Property>
+      </Object>
+      <Object type="System.Windows.Forms.DataGridView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="datagridview_Exch_Delegate_SendOnBehalf" children="Controls">
+        <Property name="AutoSizeColumnsMode">Fill</Property>
+        <Property name="ColumnHeadersHeightSizeMode">AutoSize</Property>
+        <Property name="Location">10, 91</Property>
+        <Property name="Name">datagridview_Exch_Delegate_SendOnBehalf</Property>
+        <Property name="ReadOnly">True</Property>
+        <Property name="Size">345, 162</Property>
+        <Property name="TabIndex">16</Property>
+      </Object>
+      <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="button_Exch_Delegate_SendAsAdd" children="Controls">
+        <Property name="Enabled">False</Property>
+        <Property name="Font">Microsoft Sans Serif, 25pt</Property>
+        <Property name="Location">15, 272</Property>
+        <Property name="Name">button_Exch_Delegate_SendAsAdd</Property>
+        <Property name="Size">39, 23</Property>
+        <Property name="TabIndex">19</Property>
+        <Property name="Text">+</Property>
+        <Property name="UseCompatibleTextRendering">True</Property>
+        <Property name="UseVisualStyleBackColor">True</Property>
+        <Property name="Visible">False</Property>
+      </Object>
+      <Object type="System.Windows.Forms.DataGridView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="datagridview_Exch_Delegate_SendAs" children="Controls">
+        <Property name="AutoSizeColumnsMode">Fill</Property>
+        <Property name="ColumnHeadersHeightSizeMode">AutoSize</Property>
+        <Property name="Location">10, 365</Property>
+        <Property name="Name">datagridview_Exch_Delegate_SendAs</Property>
+        <Property name="ReadOnly">True</Property>
+        <Property name="Size">345, 162</Property>
+        <Property name="TabIndex">15</Property>
+      </Object>
+      <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="button_Exch_Delegate_FullAccessAdd" children="Controls">
+        <Property name="Enabled">False</Property>
+        <Property name="Font">Microsoft Sans Serif, 25pt</Property>
+        <Property name="Location">15, 557</Property>
+        <Property name="Name">button_Exch_Delegate_FullAccessAdd</Property>
+        <Property name="Size">39, 23</Property>
+        <Property name="TabIndex">21</Property>
+        <Property name="Text">+</Property>
+        <Property name="UseCompatibleTextRendering">True</Property>
+        <Property name="UseVisualStyleBackColor">True</Property>
+        <Property name="Visible">False</Property>
+      </Object>
+      <Object type="System.Windows.Forms.DataGridView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="datagridview_Exch_Delegate_FullAccess" children="Controls">
+        <Property name="AutoSizeColumnsMode">Fill</Property>
+        <Property name="ColumnHeadersHeightSizeMode">AutoSize</Property>
+        <Property name="Location">10, 624</Property>
+        <Property name="Name">datagridview_Exch_Delegate_FullAccess</Property>
+        <Property name="ReadOnly">True</Property>
+        <Property name="Size">345, 162</Property>
+        <Property name="TabIndex">14</Property>
+      </Object>
+      <Object type="System.Windows.Forms.RichTextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="richtextbox16" children="Controls">
+        <Property name="BackColor">WhiteSmoke</Property>
+        <Property name="BorderStyle">None</Property>
+        <Property name="Location">10, 301</Property>
+        <Property name="Name">richtextbox16</Property>
+        <Property name="ReadOnly">True</Property>
+        <Property name="Size">334, 58</Property>
+        <Property name="TabIndex">13</Property>
+        <Property name="Text">The Send on Behalf permission allows the delegate to send email on behalf of this mailbox. The From line in any message sent by a delegate indicates that the message was sent by the delegate on behalf of the mailbox owner.</Property>
+      </Object>
+    </Object>
+  </Object>
+  <Code><![CDATA[
+$Exch_Delegation_Load={
+	#TODO: Initialize Form Controls here
+	
+	$global:O365_GrantSendOnBehalfTo = Get-Mailbox $param
+	$global:O365_GrantSendOnBehalfTo = $global:O365_GrantSendOnBehalfTo.GrantSendOnBehalfTo | Select-Object -Unique
+	
+	$delegates = Get-mailboxpermission $param
+	$global:delegate = @()
+	foreach ($object in $delegates)
+	{
+		if ($object.user -like "*@kiewit.com")
+		{
+			$global:delegate += $object
+		}
+	}
+	$global:delegate = $global:delegate | Select-Object -Unique
+	
+	$sendpermissions = get-recipientpermission $param
+	$global:sendas = @()
+	foreach ($object in $sendpermissions)
+	{
+		if ($object.trustee -like "*@kiewit.com" -and $object.accessrights -eq "SendAs")
+		{
+			$global:sendas += $object
+		}
+	}
+	$global:sendas = $global:sendas | Select-Object -Unique
+	
+	$FullAccess_DT = ConvertTo-DataTable -InputObject $($global:delegate | Select-Object Identity)
+	Load-DataGridView -DataGridView $datagridview_Exch_Delegate_FullAccess -Item $FullAccess_DT
+	
+	$SendAs_DT = ConvertTo-DataTable -InputObject $($global:sendas | Select-Object Identity)
+	Load-DataGridView -DataGridView $datagridview_Exch_Delegate_SendAs -Item $SendAs_DT
+	
+	$SendOnBehalf_DT = ConvertTo-DataTable -InputObject $global:O365_ExchInfo.GrantSendOnBehalfTo
+	Load-DataGridView -DataGridView $datagridview_Exch_Delegate_SendOnBehalf -Item $SendOnBehalf_DT
+	
+	#-----------------------------
+	## writing to log file
+	#-----------------------------
+	$date = $(Get-Date).tostring("MM-dd-yyyy")
+	$time = $(get-date -UFormat %R)
+	Log-Write -LogPath $LogFile -LineValue "$date, $time, $userName, $userName, $pcname, Delegation lookup in Exchange"
+	
+	Log-Write -LogPath $logusagefile -LineValue "$date, $time, $userName, $pcname, Delegation lookup in Exchange"
+}
+]]></Code>
+  <Mode>1</Mode>
+  <Assemblies>
+    <Assembly>mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</Assembly>
+    <Assembly>System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+  </Assemblies>
+</File>
